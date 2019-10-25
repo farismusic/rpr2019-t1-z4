@@ -1,6 +1,6 @@
 package ba.unsa.etf.rpr;
 
-public class Artikl {
+public class Artikl{
 
     String naziv, kod;
     int cijena;
@@ -24,4 +24,6 @@ public class Artikl {
     public int getCijena() {
         return cijena;
     }
+
+
 }
